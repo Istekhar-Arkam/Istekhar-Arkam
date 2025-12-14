@@ -1,5 +1,8 @@
 # 💫 About Me:
-Hey 👋 I'm a Frontend Developer | Mern stack Developer |, who enjoys building modern web apps.  <br>and passion for building efficient, scalable, and user-friendly web applications.  <br><br>Frontend: HTML, CSS, Bootstrap, Tailwind, JavaScript, React.js, Redux Tookit  <br>Backend: Node.js, Express.js, MongoDB  <br>Tools & Services: Docker, Firebase, Appwrite, Cloudinary, JWT <br>Passionate about clean code and scalable architecture.
+Hi there 👋
+
+Nice meeting you, I'm Istekhar Arkam!
+I'm a Frontend Developer | Mern stack Developer |, who enjoys building modern web apps.  <br>and passion for building efficient, scalable, and user-friendly web applications.  <br><br>Frontend: HTML, CSS, Bootstrap, Tailwind, JavaScript, React.js, Redux Tookit  <br>Backend: Node.js, Express.js, MongoDB  <br>Tools & Services: Docker, Firebase, Appwrite, Cloudinary, JWT <br>Passionate about clean code and scalable architecture.
 
 
 ## 🌐 Socials:
