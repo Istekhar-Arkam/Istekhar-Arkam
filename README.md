@@ -1,8 +1,12 @@
 # 💫 About Me:
 
+
 Hi there 👋
-Nice meeting you, I'm Istekhar Arkam!
+
+Nice meeting you,
+I'm Istekhar Arkam!
 #
+
 I’m a Frontend and MERN Stack Developer passionate about building responsive, user-friendly web applications. I specialize in modern JavaScript frameworks like React and enjoy turning complex problems into clean, scalable solutions. I love learning new technologies and improving performance, UI, and overall user experience.
 
 ## 🌐 Socials:
